@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Regex Tebak Kota</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: url("{{ url_for('static', filename='images/Background.jpg') }}") no-repeat center center fixed;
+            background-size: cover;
+            height: 100vh;
+            margin: 0;
+        }
+        .center-container {
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .card {
+            max-width: 700px;
+            width: 100%;
+            border-radius: 20px;
+            background: rgba(255, 255, 255, 0.7);
+            animation: fadeIn 1s ease-in-out;
+        }
+        @keyframes fadeIn {
+            from {opacity: 0; transform: scale(0.9);}
+            to {opacity: 1; transform: scale(1);}
+        }
+    </style>
+</head>
+<body>
+    <div class="center-container">
+        <div class="card shadow-lg p-5 text-center">
+            <h1 class="mb-3">🗺️ Regex Tebak Kota Indonesia</h1>
+            <p class="lead">Tebak 10 kota berdasarkan regex clue dan hint provinsi.<br><b>Siap tantangan?</b></p>
+            <a href="{{ url_for('start') }}" class="btn btn-primary btn-lg mt-3">👉 Mulai Game</a>
+        </div>
+    </div>
+</body>
+</html>

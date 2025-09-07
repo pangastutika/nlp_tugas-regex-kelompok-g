@@ -1,0 +1,38 @@
+Bogor|Jawa Barat|🌧 Bogor dijuluki Kota Hujan.|cities/Bogor.jpg
+Surabaya|Jawa Timur|🦈🐊 Surabaya terkenal dengan patung Suro dan Boyo.|cities/Surabaya.jpg
+Medan|Sumatera Utara|🍰 Medan terkenal dengan Bika Ambon.|cities/Medan.jpg
+Jakarta|DKI Jakarta|🏙 Jakarta adalah ibu kota Indonesia.|cities/Jakarta.jpg
+Bandung|Jawa Barat|🌸 Bandung dikenal dengan julukan Kota Kembang.|cities/Bandung.jpg
+Yogyakarta|DI Yogyakarta|🎭 Yogyakarta dikenal dengan Malioboro dan budaya Jawa.cities/Yogyakarta.jpg
+Semarang|Jawa Tengah|🍲 Semarang terkenal dengan lumpia.|cities/Semarang.jpg
+Denpasar|Bali|🏝 Denpasar adalah ibu kota Provinsi Bali.|cities/Denpasar.jpg
+Malang|Jawa Timur|🍏 Malang dikenal dengan apel Malang.|cities/Malang.jpg
+Makassar|Sulawesi Selatan|🚤 Makassar terkenal dengan Pantai Losari.|cities/Makassar.jpg
+Palembang|Sumatera Selatan|🍜 Palembang terkenal dengan pempek.|cities/Palembang.jpg
+Balikpapan|Kalimantan Timur|⛽ Balikpapan dikenal sebagai kota minyak.|cities/Balikpapan.jpg
+Pontianak|Kalimantan Barat|🌓 Pontianak berada tepat di garis khatulistiwa.|cities/Pontianak.jpg
+Manado|Sulawesi Utara|🌶 Manado terkenal dengan sambal rica-rica.|cities/Manado.jpg
+Padang|Sumatera Barat|🍛 Padang terkenal dengan rendang.|cities/Padang.jpg
+Pekanbaru|Riau|🛢 Pekanbaru terkenal dengan industri minyak bumi.|cities/Pekanbaru.jpg
+Banjarmasin|Kalimantan Selatan|🚤 Banjarmasin terkenal dengan pasar terapung.|cities/Banjarmasin.jpg
+Samarinda|Kalimantan Timur|🎶 Samarinda dikenal dengan musik tradisional tingkilan.|cities/Samarinda.jpg
+Kupang|NTT|🌊 Kupang adalah gerbang ke Pulau Timor.|cities/Kupang.jpg
+Ambon|Maluku|🎵 Ambon dikenal sebagai Kota Musik.|cities/Ambon.jpg
+Jayapura|Papua|🏞 Jayapura punya Danau Sentani yang indah.|cities/Jayapura.jpg
+Tangerang|Banten|🏭 Tangerang adalah kota industri besar.|cities/Tangerang.jpg
+Bekasi|Jawa Barat|🌆 Bekasi sering disebut 'planet lain' oleh netizen 🤣.|cities/Bekasi.jpg
+Depok|Jawa Barat|🎓 Depok dikenal dengan kampus UI.|cities/Depok.jpg
+Cimahi|Jawa Barat|🎖 Cimahi dijuluki Kota Tentara.|cities/Cimahi.jpg
+Tasikmalaya|Jawa Barat|🧵 Tasikmalaya terkenal dengan bordirnya.|cities/Tasikmalaya.jpg
+Solo|Jawa Tengah|🎶 Solo dikenal dengan gamelan dan budaya Jawa.|cities/Solo.jpg
+Magelang|Jawa Tengah|🏯 Magelang punya Candi Borobudur.|cities/Magelang.jpg
+Cirebon|Jawa Barat|🐟 Cirebon terkenal dengan empal gentong dan udang rebon.|cities/Cirebon.jpg
+Probolinggo|Jawa Timur|🌋 Probolinggo dekat dengan Gunung Bromo.|cities/Probolinggo.jpg
+Kediri|Jawa Timur|🍬 Kediri dikenal dengan tahu takwa.|cities/Kediri.jpg
+Blitar|Jawa Timur|🗿 Blitar adalah kota kelahiran Bung Karno.|cities/Blitar.jpg
+Mataram|NTB|🏝 Mataram dekat dengan wisata Lombok.|cities/Mataram.jpg
+Serang|Banten|🏰 Serang dikenal dengan Keraton Surosowan.|cities/Serang.jpg
+Jambi|Jambi|🌉 Jambi punya jembatan Gentala Arasy.|cities/Jambi.jpg
+Banda Aceh|Aceh|🕌 Banda Aceh dikenal dengan Masjid Raya Baiturrahman.|cities/Banda Aceh.jpg
+Manokwari|Papua Barat|🏝 Manokwari punya keindahan Teluk Doreri.|cities/Manokwari.jpg
+Ternate|Maluku Utara|🌋 Ternate terkenal dengan rempah dan Gunung Gamalama.|cities/Ternate.jpg

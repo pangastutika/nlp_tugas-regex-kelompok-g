@@ -1,0 +1,25 @@
+body {
+    background: url("/static/images/Background.jpg") no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.container-centered {
+    background-color: rgba(255, 255, 255, 0.9); /* biar teks tetap kebaca */
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    max-width: 800px;
+    width: 100%;
+    text-align: center;
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.85); /* putih transparan */
+    border-radius: 20px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
